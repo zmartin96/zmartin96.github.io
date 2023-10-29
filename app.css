@@ -1,0 +1,92 @@
+
+h2{
+    color: rgb(255, 255, 255)
+}
+
+body {
+    background-color: rgb(32, 33, 36);
+
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: #0000ff;
+}
+
+
+
+
+/* Header */
+#header {
+    display: block;
+    position: relative;
+    width: 920px;
+    height: 60px;
+    margin: 0 auto;
+    padding: 5px 20px 10px 20px;
+    color: #FFFFFFFF;
+    background-color: rgb(157, 17, 157);
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#header #logo {
+    display: block;
+    float: left;
+    width: 260px;
+    margin-top: 7px;
+}
+
+#header #logo h1,
+#header #logo p {
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+#header #logo h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    border: none;
+    text-transform: uppercase;
+}
+
+#top_left{
+    display: block;
+    position: relative;
+    width: 300px;
+    height: 60px;
+    margin: 0 auto;
+    padding: 5px 20px 10px 20px;
+    color: #FFFFFFFF;
+    background-color: rgb(157, 17, 157);
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#Hank {
+    display: block;
+    position: relative;
+    width: 920px;
+    text-align: center;
+    align-content: center;
+    display: block;
+    float: left;
+    margin-top: 7px;
+}
+
+#Hank img {
+    width: 60%;
+    height: auto;
+}
+
+#Hank h2{
+    
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+/* Next Thing */
